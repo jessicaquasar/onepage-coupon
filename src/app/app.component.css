@@ -1,0 +1,259 @@
+/* HEADER */
+
+#page-heading {
+  background-color: #137cc4;
+  position: relative;
+  height: 280px;
+}
+
+#page-heading2{
+  position: relative;
+}
+
+#text-header {
+  text-align: justify;
+  position: absolute;
+  margin: auto;
+  left: 18%;
+}
+
+#yellow-text {
+  color: #ffed4e;
+  font-family: 'DejaVuSans-ExtraLight';
+  padding-top: 15px;
+  font-size: 26px;
+  font-weight: bold;
+}
+
+#yellow-text2 {
+  color: #ffed4e;
+  line-height: 140%;
+  font-family: 'DejaVuSans-ExtraLight';
+  font-size: 38px;
+  font-weight: bold;
+}
+
+.white-text {
+  color: white;
+  padding-bottom: 10px;
+  font-size: larger;
+}
+
+#img-logo {
+  width: 888px;
+  height: 276px;
+  background: url("/assets/img/logo.png") no-repeat;
+  background-size: contain;
+  background-position: 100% 100%;
+  display: inline-block;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+#button {
+  background-color: #137cc4;
+  color: white;
+  border-radius: 0.3em;
+  border-color: rgb(119, 166, 214) !important;
+  padding: 2px 6px;
+  cursor: pointer;
+  border: 2px solid;
+  outline: none;
+  font-size: 14px;
+}
+
+/* CONTAINER 1 */
+
+#container-1 {
+  width: 100%;
+  min-height: 296px;
+  background-color: white;
+  text-align: center;
+}
+
+.icon-space {
+  padding: 0 10px;
+}
+
+.c-icon {
+  width: 225px;
+  min-height: 175px;
+  display: inline-block;
+  margin: 20px 0px 0px 84px;
+  vertical-align: top;
+
+}
+
+.c-icon .c-economic-list {
+  width: 100%;
+  height: 108px;
+  background: url('/assets/img/lista-economia.png') no-repeat;
+  background-size: contain;
+  background-position: 50% 0%;
+}
+
+.c-icon .c-selection-list {
+  width: 100%;
+  height: 108px;
+  background: url('/assets/img/lista-selecao.png') no-repeat;
+  background-size: contain;
+  background-position: 50% 0%;
+}
+
+.c-icon .c-ticket-list {
+  width: 100%;
+  height: 108px;
+  background: url('/assets/img/lista-cupom.png') no-repeat;
+  background-size: contain;
+  background-position: 50% 0%;
+}
+
+.c-icon .c-text {
+  text-align: center;
+  color: #a9aca6;
+}
+
+#l-econ {
+  width: 179px;
+  height: 108px;
+}
+
+#l-cup {
+  width: 237px;
+  height: 106px;
+}
+
+#l-select {
+  width: 230px;
+  height: 108px;
+}
+
+/* CONTAINER 2 */
+
+#container-2 {
+  width: 100%;
+  height: 201px;
+  background-color: #137cc4;
+  position: relative;
+  display: block;
+  border-bottom: 1px solid;
+  border-bottom-color:#137cc4; 
+}
+
+.image-custom {
+  width: 703px;
+  height: 113%;
+  background: url("/assets/img/celular-botoes.png") no-repeat;
+  background-size: contain;
+  background-position: 50% 100%;
+  position: relative;
+  top: -26px;
+  display: inline-block;
+  text-align: center;
+  left: 50%;
+  margin-left: -300px;
+}
+
+#yellow-text3 {
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 50px;
+  text-align: justify;
+  color: #ffed4e;
+  font-family: 'DejaVuSans-ExtraLight';    
+  padding-left: 215px;
+  height: 100%;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/* CONTAINER 3 */
+
+#container-3 {
+  width: 100%;
+  height: 900px;
+  background-color: white;
+}
+
+.image-custom2 {
+  background: url("/assets/img/lista-celular1.png") no-repeat;
+  background-size: contain;
+  background-position: 0% 100%;
+  width: 802px;
+  height: 100%;
+  margin: 0 auto;
+}
+
+.image-custom3 {
+  background: url("/assets/img/lista-celular2.png") no-repeat;
+  background-size: contain;
+  background-position: 100% 0%;
+  width: 802px;
+  height: 100%;
+  margin: 0 auto;
+}
+
+.image-custom4 {
+  background: url("/assets/img/lista-celular3.png") no-repeat;
+  background-size: contain;
+  background-position: 0% 100%;
+  width: 802px;
+  height: 100%;
+  margin: 0 auto;
+
+}
+
+.mini-container {
+    width: 100%;
+    height: 264px;
+}
+
+.text-title {
+  color: #137cc4; 
+  padding-bottom: 10px;
+  font-size: 35px; 
+}
+
+.text-container2 {
+  height: 65px;
+  width: 50%;
+  float: right;
+  margin-top: 68px;
+  margin-left: 10px;
+  color: #a9aca6;
+}
+
+.text-container3 {
+  height: 75px;
+  width: 50%;
+  float: left;
+  margin-top: 80px;
+  margin-left: 168px;
+  color: #a9aca6;
+}
+
+.text-container4 {
+  height: 65px;
+  width: 50%;
+  float: right;
+  margin-top: 102px;
+  margin-left: 10px;
+  color: #a9aca6;
+}
+
+/* OTHERS */
+
+.text-container {
+  text-align: center;
+  color: #137cc4;
+  font-size: 25px;
+}
+
+@font-face {
+  font-family: 'DejaVuSans-ExtraLight';
+  src: url('/assets/font/DejaVuSans-ExtraLight.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
