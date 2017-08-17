@@ -1,4 +1,4 @@
-# One Page Coupom
+# One Page Coupon
 
 ## Development server
 
